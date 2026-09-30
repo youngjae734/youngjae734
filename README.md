@@ -1,8 +1,12 @@
 <div align="center">
 
-# 안녕하세요, 정재영입니다 👋
-
-**Spring · FastAPI로 서버를 만들고, Flutter로 앱까지 직접 완성해 보는 개발자입니다.**
+<p align="center">
+  🚀 <b>어제보다 한 줄 더 나은 코드를.</b><br/><br/>
+  안녕하세요, <b>빠르게 배우고 더 나은 것을 만드는 개발자 정재영</b>입니다.<br/>
+  처음 보는 기술도 필요하면 직접 배워서, 끝까지 연결해 냅니다.<br/>
+  요즘은 <b>FastAPI · Flutter</b>로 <b>오또(OddO)</b>를 개발하면서, <b>Spring Boot · JPA</b>도 깊게 파고 있어요.<br/><br/>
+  <b>꾸준히 쌓아가는 개발자</b>가 되겠습니다. ✍️
+</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://youngjae734.github.io/jaeyoungfolio/)
 
