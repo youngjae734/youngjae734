@@ -31,10 +31,62 @@
 
 <br>
 
-## 🌱 Contributions
+## 🎓 Education
+
+- **Hongik University (Sejong) – 과학기술대학 소프트웨어융합학과**
+  *(2023 – 재학 중)*
+
+<br>
+
+## 🏅 Experience
+
+- **홍익대학교 메타버스 융합 SW 아카데미 6기** *(2026 – 교육 중)*
+  – 웹 개발 전반 실습 중심 교육, 백엔드 설계 및 개인·팀 프로젝트 수행
+
+<br>
+
+## 💼 Projects
+
+| Period | Type | Project | Description | Awards |
+|:---:|:---:|:---:|---|:---:|
+| 26.04 ~ 진행 중 | ⭐ Core | [오또 (OddO)](https://github.com/Team-SaGoMugChi) | 멀티모달 실시간 감정 분석 기반 AI 감정 영상 일기 서비스<br>4인 팀 · 멀티모달 감정 분석 및 대화형 일기 구현 담당 | 🏅🏅 |
+| - | 🌐 Web | [Campus Link](https://youngjae734.github.io/jaeyoungfolio/assets/Campus%20Link.pdf) | Oracle · PHP 기반 캠퍼스 활동·일정·공간 예약 통합 관리 웹 서비스 | |
+| - | 📊 Data | [LifeLog Productivity Predictor](https://youngjae734.github.io/jaeyoungfolio/assets/LifeLog%20Productivity%20Predictor.pdf) | 수면·스트레스·번아웃 등 라이프로그 데이터로 생산성을 예측하는 ML 분석 | |
+
+<br>
+
+## 🏆 Awards
+
+| Date | Award / Recognition | Project |
+|:---:|---|:---:|
+| 2026.06 | 대한전자공학회 하계학술대회 🏅 **우수학생논문상** | 오또 |
+| 2026.03 | 한이음 공모전 🏅 **입선** | 오또 |
+
+<br>
+
+## 🔥 GitHub 활동
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D 잔디" />
 </picture>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youngjae734&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngjae734&layout=donut&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=youngjae734&theme=dark&hide_border=true" height="170"/>
+</p>
+
+<br>
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:youngjae734@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://youngjae777.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <a href="https://youngjae734.github.io/jaeyoungfolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+</p>
