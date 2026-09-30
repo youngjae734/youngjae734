@@ -49,9 +49,9 @@
 
 | Period | Type | Project | Description | Awards |
 |:---:|:---:|:---:|---|:---:|
-| 26.04 ~ 진행 중 | ⭐ Core | [오또 (OddO)](https://github.com/Team-SaGoMugChi) | 멀티모달 실시간 감정 분석 기반 AI 감정 영상 일기 서비스<br>4인 팀 · 멀티모달 감정 분석 및 대화형 일기 구현 담당 | 🏅🏅 |
-| - | 🌐 Web | [Campus Link](https://youngjae734.github.io/jaeyoungfolio/assets/Campus%20Link.pdf) | Oracle · PHP 기반 캠퍼스 활동·일정·공간 예약 통합 관리 웹 서비스 | |
-| - | 📊 Data | [LifeLog Productivity Predictor](https://youngjae734.github.io/jaeyoungfolio/assets/LifeLog%20Productivity%20Predictor.pdf) | 수면·스트레스·번아웃 등 라이프로그 데이터로 생산성을 예측하는 ML 분석 | |
+| 26.04 ~ 진행 중 | ⭐ Core | [오또 (OddO)](https://github.com/Team-SaGoMugChi) | 멀티모달 실시간 감정 분석 기반 AI 감정 영상 일기 서비스<br>4인 팀 · 멀티모달 감정 분석 및 대화형 일기 구현 담당 | 🏅 |
+| 25.09 - 25.12 | 🌐 Web | [Campus Link](https://youngjae734.github.io/jaeyoungfolio/assets/Campus%20Link.pdf) | Oracle · PHP 기반 캠퍼스 활동·일정·공간 예약 통합 관리 웹 서비스 | |
+| 25.10 - 25.11 | 📊 Data | [LifeLog Productivity Predictor](https://youngjae734.github.io/jaeyoungfolio/assets/LifeLog%20Productivity%20Predictor.pdf) | 수면·스트레스·번아웃 등 라이프로그 데이터로 생산성을 예측하는 ML 분석 | |
 
 <br>
 
