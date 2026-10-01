@@ -18,6 +18,7 @@
 
 - 🖥️ 백엔드(Spring, FastAPI)를 중심으로 프론트엔드(Flutter, HTML/CSS)까지, 하나의 서비스를 처음부터 끝까지 만들어 보고 있어요.
 - 🎙️ Mediapipe, librosa로 영상·음성 데이터를 다루며 AI 기능을 서비스에 녹이는 일에 관심이 많아요.
+- 🌱 요즘은 **Spring Boot · JPA · JWT 인증**을 깊게 공부하고 있어요.
 
 <br>
 
@@ -93,3 +94,4 @@
   <a href="https://youngjae777.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
   <a href="https://youngjae734.github.io/jaeyoungfolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
+
