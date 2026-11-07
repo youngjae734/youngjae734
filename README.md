@@ -8,7 +8,7 @@
   <b>꾸준히 쌓아가는 개발자</b>가 되겠습니다. ✍️
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)]((https://youngjae734.github.io/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://youngjae734.github.io/)
 [![Notion Portfolio](https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Portfolio-5ea990ba135e839e97c081ea6cc911ab)
 
 </div>
@@ -54,9 +54,9 @@
 
 | Period | Type | Project | Description | Awards |
 |:---:|:---:|:---:|---|:---:|
-| 26.04 ~ 진행 중 | ⭐ Core | [오또 (OddO)](https://github.com/Team-SaGoMugChi) | 멀티모달 실시간 감정 분석 기반 AI 감정 영상 일기 서비스<br>4인 팀 · 멀티모달 감정 분석 및 대화형 일기 구현 담당 | 🏅 |
-| 25.09 - 25.12 | 🌐 Web | [Campus Link](https://youngjae734.github.io/jaeyoungfolio/assets/Campus%20Link.pdf) | Oracle · PHP 기반 캠퍼스 활동·일정·공간 예약 통합 관리 웹 서비스 | |
-| 25.10 - 25.11 | 📊 Data | [LifeLog Productivity Predictor](https://youngjae734.github.io/jaeyoungfolio/assets/LifeLog%20Productivity%20Predictor.pdf) | 수면·스트레스·번아웃 등 라이프로그 데이터로 생산성을 예측하는 ML 분석 | |
+| 26.04 ~ 진행 중 | ⭐ Core | [오또 (OddO)](https://jaeyoung27.notion.site/Oddo-dad990ba135e8260a82581f0aa088f28) | 멀티모달 실시간 감정 분석 기반 AI 감정 영상 일기 서비스<br>4인 팀 · 멀티모달 감정 분석 및 대화형 일기 구현 담당 | 🏅 |
+| 25.09 - 25.12 | 🌐 Web | [Campus Link](https://jaeyoung27.notion.site/Campus-Link-4f8990ba135e83fe98ba8110f7aae102) | Oracle · PHP 기반 캠퍼스 활동·일정·공간 예약 통합 관리 웹 서비스 | |
+| 25.10 - 25.11 | 📊 Data | [LifeLog Productivity Predictor](https://jaeyoung27.notion.site/Data-Science-a50990ba135e827da43801c4dde51374)| 수면·스트레스·번아웃 등 라이프로그 데이터로 생산성을 예측하는 ML 분석 | |
 
 <br>
 
@@ -93,7 +93,7 @@
 <p align="center">
   <a href="mailto:youngjae734@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://youngjae777.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-  <a href="https://youngjae734.github.io/jaeyoungfolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://youngjae734.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
   <a href="https://app.notion.com/p/Portfolio-5ea990ba135e839e97c081ea6cc911ab"><img src="https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
 
