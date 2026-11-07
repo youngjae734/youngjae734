@@ -8,7 +8,7 @@
   <b>꾸준히 쌓아가는 개발자</b>가 되겠습니다. ✍️
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://youngjae734.github.io/jaeyoungfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)]((https://youngjae734.github.io/))
 [![Notion Portfolio](https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Portfolio-5ea990ba135e839e97c081ea6cc911ab)
 
 </div>
