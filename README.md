@@ -77,15 +77,6 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D 잔디" />
 </picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youngjae734&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngjae734&layout=donut&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=youngjae734&theme=dark&hide_border=true" height="170"/>
-</p>
-
 <br>
 
 ## 📫 Contact
