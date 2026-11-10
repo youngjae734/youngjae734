@@ -8,7 +8,7 @@
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://youngjae734.github.io/)
-[![Notion Portfolio](https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Portfolio-5ea990ba135e839e97c081ea6cc911ab)
+[![Notion Portfolio](https://app.notion.com/p/jaeyoung27/Portfolio-5ea990ba135e839e97c081ea6cc911ab?source=copy_link)](https://app.notion.com/p/Portfolio-5ea990ba135e839e97c081ea6cc911ab)
 
 </div>
 
@@ -84,6 +84,6 @@
   <a href="mailto:youngjae734@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://youngjae777.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
   <a href="https://youngjae734.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-  <a href="https://app.notion.com/p/Portfolio-5ea990ba135e839e97c081ea6cc911ab"><img src="https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://app.notion.com/p/jaeyoung27/Portfolio-5ea990ba135e839e97c081ea6cc911ab?source=copy_link"><img src="https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
 
