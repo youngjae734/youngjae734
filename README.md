@@ -8,7 +8,7 @@
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://youngjae734.github.io/)
-[![Notion Portfolio](https://app.notion.com/p/jaeyoung27/Portfolio-5ea990ba135e839e97c081ea6cc911ab?source=copy_link)](https://app.notion.com/p/Portfolio-5ea990ba135e839e97c081ea6cc911ab)
+<a href="https://app.notion.com/p/jaeyoung27/Portfolio-5ea990ba135e839e97c081ea6cc911ab?source=copy_link"><img src="https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 </div>
 
